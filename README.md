@@ -1,16 +1,37 @@
-## Hi there 👋
+ # Hi 👋, I'm hanzala sarwar
 
-<!--
-**hanzala-sarwar/hanzala-sarwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer
+🚀 Passionate about building modern web applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Technologies
+
+### 🎨 Frontend
+
+React.js • Next.js • TypeScript • Redux Toolkit • Tailwind CSS • Framer Motion • HTML5 • CSS3
+
+### ⚙️ Backend
+
+Node.js • Next.js Route Handlers • REST APIs • JWT Authentication
+
+### 🗄 Databases & ORM
+
+PostgreSQL • MongoDB • Prisma ORM • Zod Validation
+
+### 🧰 Tools
+
+Git • GitHub • VS Code • Clerk • Auth.js
+
+---
+
+## 🚀 Projects
+
+* **HireHub** – Full Stack Job Portal built with Next.js, Redux, MongoDB, and Cloudinary.
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/yourusername
+* LinkedIn: Add your LinkedIn link here
